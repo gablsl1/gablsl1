@@ -16,4 +16,4 @@
   <img align="center" alt="gab-python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
 
-![Snake animation](https://github.com/gablsl1/gablsl1/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/gablsl1/gablsl1/blob/output/github-contribution-grid-snake.svg)
