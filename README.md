@@ -1,6 +1,6 @@
 - 👋 Hi!! I'm Gabriel
 - 💻 Full Stack Developer Jr
-- 🍃 Actually studiyng Java
+- 🍃 Actually studiyng Javascript 
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gablsl1&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gablsl1&layout=compact&theme=radical)](https://github.com/gablsl1/github-readme-stats)
